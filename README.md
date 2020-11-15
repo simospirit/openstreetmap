@@ -3,7 +3,7 @@
 lets start with downloading the data from openstreetmap.org website as OSM XML file. Then change it to Json when its already cleaned and audited. finally finished with statistical numbers and data summarizing with Python and MongoDB. 
 
 Chosen Map Area:
-I choosed Melbourne FLorida, because that the city where i live, its a small city in Brevard county FL. Its easier because I'm familiar with the area and street names. 
+I choosed my hometown Melbourne FLorida, its a small city located in central FLorida. Its easier because I'm familiar with the area and street names. 
 
 located my city from the map : https://www.openstreetmap.org/relation/117646 using "EXPORT tab". then using Overpass Api to download the file. 
 OMS FIle : https://www.openstreetmap.org/export#map=12/28.1176/-80.6613
