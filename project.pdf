@@ -11,6 +11,9 @@ Then going to Json format from XML.OSM data, and import the JSON file to MongoDB
 
 Problems encounter: Street names type and cardinal directions are abbreviated. 
 
+Files Sizes: 
+
+
 
 
 
