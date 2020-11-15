@@ -1,5 +1,14 @@
 
-" OpenStreetMap Project: Data Wrangling with MongoDB
+{
+   "cell_type": "markdown",
+   "metadata": {},
+   "source": [
+    "OpenStreetMap Project: Data Wrangling with MongoDB:\n",
+    Mohammed Bougayou
+
+Map Area: Melbourne, Florida
+   ]
+  }
 Mohammed Bougayou
 
 Map Area: Melbourne, Florida
