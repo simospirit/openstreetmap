@@ -1,4 +1,4 @@
-# openstreetmap project was great way to learn and explore MongoDb in parallel with Python.Udacity provides lot infos and exemples to complete the project.
+# openstreetmap project was great way to learn and explore MongoDb in parallel with Python. Udacity provides lots great inputs and exemples to complete the project.
 
 lets start with downloading the data from openstreetmap.org website as OSM XML file. Then change it to Json when its already cleaned and audited. finally finished with statistical numbers and data summarizing with Python and MongoDB. 
 
