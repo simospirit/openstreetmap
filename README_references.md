@@ -13,7 +13,6 @@ I started by parsing the data through with ElementTree and count the number of u
 _Abbrevaited Street Names: try to find it and replace them with the full text form. Iterate in each node/way/relation in data
 the value of the v attribute.
 
-_Cardinal Directions are abbreviated.
 
 References:
 #https://docs.python.org/3/howto/regex.html
