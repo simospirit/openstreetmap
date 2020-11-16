@@ -15,5 +15,15 @@ the value of the v attribute.
 
 _Cardinal Directions are abbreviated.
 
+References:
+#https://docs.python.org/3/howto/regex.html
+#https://classroom.udacity.com/courses/ud032/lessons/768058569/concepts/8755386140923
+#https://classroom.udacity.com/courses/ud032/lessons/768058569/concepts/8402186170923
+#https://classroom.udacity.com/courses/ud032/lessons/768058569/concepts/8443086480923
+https://docs.mongodb.com/manual/aggregation/
+https://libraries.io/github/mkuehn10/P3-Wrangle-OpenStreetMap-Data
+https://stackoverflow.com/questions/30333020/mongodb-pymongo-aggregate-gives-strange-output-something-about-cursorrege
+https://jameskao.me/data-wrangling-with-openstreetmap-and-mongodb/
+
 
 
